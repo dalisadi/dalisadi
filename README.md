@@ -1,4 +1,6 @@
-# Hi, I'm Dalia SADI 👋
+# Dalia SADI
+
+# Data & AI Student | Master ISD - Paris-Saclay University
 
 🎓 Master's student in Data Science (ISD) at Paris-Saclay University
 
