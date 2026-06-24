@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Dalia SADI 👋
 
-<!--
-**dalisadi/dalisadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Data Science (ISD) at Paris-Saclay University
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills:
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-Learn
+- Flask
+- React
+- MongoDB
+
+📚 Academic Projects:
+- Fashion-MNIST Image Classification
+- Opinion Dynamics Analysis Platform
+- Community Web Application
+- Finite Automata Simulator
+- CPU Simulator
+
+🔍 Currently looking for a 24-month apprenticeship starting September 2026.
+
+📫 Contact:
+- LinkedIn: linkedin.com/in/dalia-sadi
+- Email: sadi.dalia2021@gmail.com
